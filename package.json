@@ -30,3 +30,10 @@
     "vite": "^7.1.7"
   }
 }
+{
+  "homepage": "https://akalya-t.github.io/portfolio_v4/",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  }
+}
