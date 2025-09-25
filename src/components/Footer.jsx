@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="flex gap-6 text-2xl pb-6">
         {/* Website */}
         <a
-          href="https://your-website.com"
+          href="https://akalya-t.github.io/portfolio_v4/"
           target="_blank"
           rel="noopener noreferrer"
         >
