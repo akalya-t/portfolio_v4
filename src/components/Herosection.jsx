@@ -53,7 +53,7 @@ type();
             className=" lg:text-9xl lg:h-[9rem] md:text-9xl md:h-[9rem] text-9xl inline-block whitespace-nowrap relative after:content-['|'] after:absolute after:ml-2 after:animate-blink mb-5 bg-gradient-to-r from-purple-600 via-violet-400 to-violet-200 bg-clip-text text-transparent "
           ></h1> 
 
-          <p className="text-4xl text-violet-300">Front-End Developer</p>
+          <p className="text-4xl text-violet-300 text-center">Front-End Developer</p>
         </main>
       );
 }
